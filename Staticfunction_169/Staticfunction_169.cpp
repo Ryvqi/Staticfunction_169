@@ -22,5 +22,4 @@ void mahasiswa::setID() {
 void mahasiswa::printALL() {
 	cout << "ID : " << id << endl;
 	
-
 }
