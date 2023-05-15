@@ -36,8 +36,6 @@ void mahasiswa::cetak() {
 	cout << "Nama = " << nama << endl;
 }
 
-
-
 int main() {
 	mahasiswa mhs1;
 	mahasiswa mhs2(20);
@@ -49,5 +47,5 @@ int main() {
 	mhs3.cetak();
 	mhs4.cetak();
 
-	
+	return 0;
 }
